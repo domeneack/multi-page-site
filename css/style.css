@@ -21,20 +21,21 @@ a {
 
 footer {
   text-align: center;
-  
 }
 
 img {
-    max-width: 50%;
-    border-radius: 10px;
-    display: block;
-    margin: 30px 0;
-    padding-bottom: 40px;
-   
-    
+  max-width: 50%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+  padding-bottom: 40px;
 }
 
 .picture-title {
-    font-size: 40px;
-    padding: 20px;
+  font-size: 40px;
+  padding: 20px;
+}
+
+.github-link {
+  display: block;
 }
